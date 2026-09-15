@@ -1,2 +1,2 @@
-# OT-PowerPlant-OSINT
-For lab
+# OT-PowerPlant
+in developing 
